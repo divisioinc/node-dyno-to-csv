@@ -13,11 +13,11 @@ Module will return an S3 signedURL pointing to the saved data.
 ## Usage
 
 ```
-npm install @divisioinc/node-dyno-to-csv
+npm install @divisio/node-dyno-to-csv
 ```
 
 ```
-const DynoToCsv = require('@divisioinc/node-dyno-to-csv');
+const DynoToCsv = require('@divisio/node-dyno-to-csv');
 ```
 
 ##### Configure with AWS Credentials
